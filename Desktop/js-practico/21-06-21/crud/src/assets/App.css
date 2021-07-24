@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-image: url("../assets//img/champion.jpg");
+}
+h2 {
+  text-align: center;
+  color: azure;
+}
+h3,
+h1 {
+  color: black;
+}
+.up-bar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-around;
+  margin-left: 1%;
+}
+.div-btn {
+  align-items: stretch;
+}
+.theader {
+  background-color: white;
+  color: rgb(0, 0, 0);
+  height: 30px;
+}
+.tbody {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+.descri-button {
+  color: white;
+  background: none;
+  border: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+p {
+  color: black;
+}
+.modal_desc {
+  background-color: aliceblue;
+  border: 3px solid red;
+  height: 40%;
+  width: 100%;
+}
