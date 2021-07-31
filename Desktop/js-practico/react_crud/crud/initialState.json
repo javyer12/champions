@@ -1,0 +1,81 @@
+
+{
+  "initalState": {
+    "mylist": [],
+    "data": [
+      {
+        "id": 1,
+        "champion": "Barcelona FC",
+        "championcountry": "Spain",
+        "runnerUp": "AC Milan",
+        "runnercountry": "Italy",
+        "score": "2-1",
+        "season": "2000-2001",
+        "stadium": "Alianz Arena",
+        "description": "the dream team got their first cup in the season"
+      },
+      {
+        "id": 2,
+        "champion": "Liverpool ",
+        "championcountry": "England",
+        "runnerUp": "Barcelona FC",
+        "runnercountry": "Spain",
+        "score": "3-1",
+        "season": "2001-2002",
+        "stadium": "Santiago Bernabeu",
+        "description": "the reds faced the dream team and got their first cup of the century"
+      },
+      {
+        "id": 3,
+        "champion": "Real Madrid",
+        "championcountry": "Spain",
+        "runnerUp": "Barcelona FC",
+        "runnercountry": "Spain",
+        "score": "1-0",
+        "season": "2002-2003",
+        "stadium": "El Teatro de los Principes",
+        "description": "this season gave birth to the galactics"
+      },
+      {
+        "id": 4,
+        "champion": "Bayer Munich",
+        "championcountry": "German",
+        "runnerUp": "Juventud",
+        "runnercountry": "Italy",
+        "score": "2-1",
+        "season": "2003-2004",
+        "stadium": "Old Trafford ",
+        "description": "the babaros surpassed the vieja señora"
+      },
+      {
+        "id": 5,
+        "champion": "FC Barcelona",
+        "championcountry": "Spain",
+        "runnerUp": "Juventud",
+        "runnercountry": "Italy",
+        "score": "2-0",
+        "season": "2004-2005",
+        "stadium": "Oporto Stadium",
+        "description": "the azulgrana surpassed the vieja señora"
+      }
+    ],
+    "team":[
+        {
+          "id": 5,
+          "name": "FC Barcelona",
+          "goal-scorer": "Leonel Messi",
+          "country": "Spain",
+          "stadium": "Camp nou",
+          "foundation": "November 29, 1899"
+        },
+        {
+          "id": 6,
+          "name": "Inter Milan",
+          "goal-scorer": "Romelu Lukaku",
+          "country": "Italy",
+          "stadium": "San Siro Stadium",
+          "foundation": "November 29, 1899"
+      }
+    ]
+  }
+}
